@@ -1,0 +1,10 @@
+DROP INDEX i_asociacion_genero_movies_id_movies;
+DROP INDEX i_asociacion_genero_movies_id_gen;
+DROP INDEX i_casti_name;
+DROP INDEX i_casti_id;
+DROP INDEX i_crew_job;
+DROP INDEX i_crew_id_movie;
+DROP INDEX i_casti_id_movie;
+DROP INDEX i_crew_id;
+DROP INDEX i_metadata_vote_counts;
+DROP INDEX i_metadata_vote_average;
